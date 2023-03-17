@@ -1,1 +1,23 @@
-/*  your css code here. If applicable */
+
+h2{
+    margin:auto;
+    text-align: center;
+    padding-bottom: 25px;
+}
+
+
+.container{
+    display: block;
+   padding: 30px;
+   padding-bottom: 40px;
+   background-color: #444444;
+   border-radius: 10px;
+   color: white;
+   text-align: center;
+
+}
+img{
+  
+    width:32%;
+    border-radius: 20px;
+}
